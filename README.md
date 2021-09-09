@@ -11,3 +11,6 @@
 Pour ce faire, je vais devoir en premier lieu recuperer les données concernant l'hotel des ventes ainsi que les données concernant les items.
 Les données seront parcourues et affichées à l'aide du framework Flask
 Au clic d'un item dans la liste des item dans l'hotel des ventes, les details de l'item s'afficherons sur une nouvelle page
+
+## Les bases de données :
+### BDD Hotel des vente classic : 
