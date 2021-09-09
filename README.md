@@ -13,4 +13,6 @@ Les données seront parcourues et affichées à l'aide du framework Flask
 Au clic d'un item dans la liste des item dans l'hotel des ventes, les details de l'item s'afficherons sur une nouvelle page
 
 ## Les bases de données :
-### BDD Hotel des vente classic : 
+### BDD Hotel des vente classic : https://www.kaggle.com/mylesoneill/classic-world-of-warcraft-auction-data
+### BDD model : 
+
