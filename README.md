@@ -14,5 +14,5 @@ Au clic d'un item dans la liste des item dans l'hotel des ventes, les details de
 
 ## Les bases de données :
 ### BDD Hotel des vente classic : https://www.kaggle.com/mylesoneill/classic-world-of-warcraft-auction-data
-### BDD model : 
+### BDD model :    
 
